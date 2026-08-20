@@ -1,16 +1,49 @@
-## Hi there 👋
+# Olá, eu sou Vitor Gabriel
 
-<!--
-**VitorHoffman/VitorHoffman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Sistemas de Informação**, atualmente focado em desenvolver minha base em programação e seguir na área de **desenvolvimento backend**.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estudante de Sistemas de Informação
+- Atualmente estudando **Python, SQL e lógica de programação**
+- Desenvolvendo projetos para colocar em prática o que estou aprendendo
+- Tenho interesse em **desenvolvimento backend e bancos de dados**
+- Buscando evoluir através de projetos e prática constante
+
+## Tecnologias
+
+- Python
+- SQL
+- SQLite
+- Git
+- GitHub
+
+## Projetos
+
+### Agenda de Contatos
+
+Aplicação de terminal desenvolvida em Python utilizando SQLite.
+
+Principais funcionalidades:
+
+- Cadastro de contatos
+- Listagem
+- Busca por diferentes atributos
+- Edição de contatos
+- Exclusão de contatos
+- Operações CRUD com SQLite
+
+[Ver projeto](https://github.com/VitorHoffman/agenda-contatos.git)
+
+## Atualmente estudando
+
+- Lógica de programação e algoritmos
+- Python
+- Banco de dados e SQL
+- Git e GitHub
+- Fundamentos de desenvolvimento backend
+
+## Contato
+
+- GitHub: https://github.com/VitorHoffman
+- LinkedIn: https://www.linkedin.com/in/vitor-gabriel-oliveira-hoffman-dev/
